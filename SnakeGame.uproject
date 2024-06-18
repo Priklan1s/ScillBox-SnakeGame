@@ -5,15 +5,12 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "ue4_cpp_snake_game",
+			"Name": "SnakeGame",
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
 				"Engine"
 			]
 		}
-	],
-	"TargetPlatforms": [
-		"WindowsNoEditor"
 	]
 }
